@@ -16,7 +16,7 @@
 [![](https://gtce.itsvg.in/api?username=MouradBoufasa)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Favorite Quote
-![](Set your heart ablaze, Go beyond your limits?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MouradBoufasa&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -25,3 +25,5 @@
 [![](https://visitcount.itsvg.in/api?id=MouradBoufasa&icon=1&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
