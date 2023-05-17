@@ -2,9 +2,10 @@
 🖥️ Hi there community ,my name is Boufasa Mourad<br><br>👨🏾‍💻 I'm Technical Engineer & a FullStack Web Developer<br><br>🌱 I’m new JavaScript framework<br><br>💬 Ask me anything about JavaScript and it's framework
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MouradBoufasa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MouradBoufasa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MouradBoufasa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MouradBoufasa&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MouradBoufasa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BoufasaMourad#3736) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MouradObito) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mourad.boufasa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mourad-boufasa-216aa31bb/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MouradBoufasa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MouradBoufasa) 
