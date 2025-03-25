@@ -1,10 +1,6 @@
 # 👨🏾‍💻 About Me:
 🖥️ Hi there community ,my name is Boufasa Mourad<br><br>👨🏾‍💻 I'm Technical Engineer & a FullStack Web Developer<br><br>🌱 I’m new JavaScript framework<br><br>💬 Ask me anything about JavaScript and it's framework
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MouradBoufasa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MouradBoufasa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MouradBoufasa&theme=blue-green&hide_border=false)<br/>
 
 
 ## 🌐 Socials:
